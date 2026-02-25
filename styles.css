@@ -1,5 +1,5 @@
-/* Import JetBrains Mono Font */
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap');
+/* Import Courier Prime Font */
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
 
 /* CSS Reset & Base Styles */
 * {
@@ -18,7 +18,7 @@
 }
 
 body {
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'Courier Prime', monospace;
     background-color: var(--bg-color);
     color: var(--text-color);
     line-height: 1.6;
