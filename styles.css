@@ -1,5 +1,4 @@
-/* Import Courier Prime Font */
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
+/* Courier New - System Font (no import needed) */
 
 /* CSS Reset & Base Styles */
 * {
@@ -18,7 +17,7 @@
 }
 
 body {
-    font-family: 'Courier Prime', monospace;
+    font-family: 'Courier New', Courier, monospace;
     background-color: var(--bg-color);
     color: var(--text-color);
     line-height: 1.6;
