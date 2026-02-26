@@ -5,7 +5,7 @@ A minimalist black & white portfolio website built with HTML, CSS, and vanilla J
 ## Features
 
 - 🎨 Clean black & white design
-- ⌨️ JetBrains Mono font
+- ⌨️ Courier New system font
 - 📱 Fully responsive
 - ⚡ Fast and lightweight (no frameworks)
 - ⌨️ Keyboard navigation shortcuts
@@ -14,20 +14,24 @@ A minimalist black & white portfolio website built with HTML, CSS, and vanilla J
 ## Pages
 
 1. **Home** (`index.html`) - Landing page with overview
-2. **Projects** (`projects.html`) - Showcase of technical projects
-3. **Experience** (`experience.html`) - Professional work history
-4. **Reading** (`reading.html`) - Books and articles
-5. **Blog** (`blog.html`) - Blog posts and articles
+2. **About Me** (`aboutme.html`) - Background and skills
+3. **Projects** (`projects.html`) - Showcase of technical projects
+4. **Experience** (`experience.html`) - Professional work history
+5. **Reading** (`reading.html`) - Books and articles
+6. **Blog** (`blog.html`) - Blog posts and articles
+7. **What I Offer** (`offer.html`) - Services and expertise
 
 ## File Structure
 
 ```
 aashishraj.me/
 ├── index.html          # Home page
+├── aboutme.html        # About me
 ├── projects.html       # Tech projects
 ├── experience.html     # Work experience
 ├── reading.html        # Books & articles
 ├── blog.html          # Blog posts
+├── offer.html          # Services and offerings
 ├── styles.css         # Shared stylesheet
 ├── script.js          # JavaScript functionality
 └── README.md          # This file
@@ -53,7 +57,7 @@ aashishraj.me/
 
 - Edit `styles.css` to change colors, spacing, or layout
 - Current color scheme uses CSS variables in `:root`
-- Change font by updating the Google Fonts import URL
+- Change font by updating the `font-family` on `body`
 
 ### Add Functionality
 
