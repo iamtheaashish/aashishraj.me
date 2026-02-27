@@ -1,6 +1,8 @@
 # Aashish Raj - Portfolio Website
 
-A minimalist black & white portfolio website built with HTML, CSS, and vanilla JavaScript.
+A minimalist monochrome portfolio website built with HTML, CSS, and JavaScript.
+
+Thanks to GitHub Copilot.
 
 ## Features
 
@@ -8,7 +10,6 @@ A minimalist black & white portfolio website built with HTML, CSS, and vanilla J
 - ⌨️ Courier New system font
 - 📱 Fully responsive
 - ⚡ Fast and lightweight (no frameworks)
-- ⌨️ Keyboard navigation shortcuts
 - ✨ Smooth animations
 
 ## Pages
@@ -37,14 +38,6 @@ aashishraj.me/
 └── README.md          # This file
 ```
 
-## Keyboard Shortcuts
-
-- `Alt + H` → Home
-- `Alt + P` → Projects
-- `Alt + E` → Experience
-- `Alt + R` → Reading
-- `Alt + B` → Blog
-
 ## Customization
 
 ### Update Content
@@ -62,7 +55,7 @@ aashishraj.me/
 ### Add Functionality
 
 - Edit `script.js` to add interactive features
-- Current features: fade-in animations, keyboard navigation
+- Current features: fade-in animations
 
 ## Deployment
 
