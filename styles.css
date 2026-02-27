@@ -8,11 +8,11 @@
 }
 
 :root {
-    --bg-color: #ffffff;
-    --text-color: #000000;
-    --secondary-text: #666666;
-    --border-color: #000000;
-    --hover-bg: #000000;
+    --bg-color: #121212;
+    --text-color: #f0f0f0;
+    --secondary-text: #b0b0b0;
+    --border-color: #303030;
+    --hover-bg: #303030;
     --hover-text: #ffffff;
 }
 
@@ -258,6 +258,17 @@ main {
 .experience-item .description {
     margin-bottom: 1rem;
     line-height: 1.8;
+}
+
+.experience-link {
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.experience-link:hover,
+.experience-link:focus {
+    color: #ffffff;
 }
 
 .achievements {
