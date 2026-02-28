@@ -8,12 +8,12 @@
 }
 
 :root {
-    --bg-color: #121212;
-    --text-color: #f0f0f0;
-    --secondary-text: #b0b0b0;
-    --border-color: #303030;
-    --hover-bg: #303030;
-    --hover-text: #ffffff;
+    --bg-color: #f6f6f4;
+    --text-color: #262626;
+    --secondary-text: #7a7a7a;
+    --border-color: #e3e3e0;
+    --hover-bg: #ededeb;
+    --hover-text: #000000;
 }
 
 body {
