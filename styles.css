@@ -8,14 +8,13 @@
 }
 
 :root {
-    --bg-color: #f6f6f4;
-    --text-color: #262626;
-    --secondary-text: #7a7a7a;
-    --border-color: #e3e3e0;
-    --hover-bg: #ededeb;
-    --hover-text: #000000;
+    --bg-color: #fbfbf8;
+    --text-color: #1f1f1f;
+    --secondary-text: #777777;
+    --border-color: #e5e5e0;
+    --hover-bg: #333333;
+    --hover-text: #ffffff;
 }
-
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: var(--bg-color);
