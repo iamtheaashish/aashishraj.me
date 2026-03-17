@@ -1,4 +1,6 @@
-/* Courier New - System Font (no import needed) */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+/* Montserrat - Google Font */
 
 /* CSS Reset & Base Styles */
 * {
@@ -16,7 +18,7 @@
     --hover-text: #ffffff;
 }
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Montserrat', sans-serif;
     background-color: var(--bg-color);
     color: var(--text-color);
     line-height: 1.6;
